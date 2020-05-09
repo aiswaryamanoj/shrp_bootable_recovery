@@ -219,7 +219,7 @@
 		<string name="backup_hdr">Backup</string>
 		<string name="backup_confirm_hdr">Confirm Backup</string>
 		<string name="encryption_tab">Encryption</string>
-		<string name="encryption">Encryption:</string>
+		<string name="encryption">എൻക്രിപ്ഷൻ</string>
 		<string name="name">Name:</string>
 		<string name="sel_part_backup">Select Partitions to Backup:</string>
 		<string name="storage">Storage:</string>
